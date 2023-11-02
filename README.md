@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, Java, SQL, Python
 
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=ryosoraa&show_icons=true&theme=blue-green) | ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosoraa) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=ryosoraa&show_icons=true&theme=blue-green) | ![Language](https://github-readme-stats.vercel.app/api?username=ryosoraa&show_icons=true&theme=transparent) |
 | ------------- | ------------- |
 
 <!---
