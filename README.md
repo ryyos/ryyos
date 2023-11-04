@@ -1,10 +1,6 @@
 
 | ![stats](https://github-readme-stats.vercel.app/api?username=ryosoraa&show_icons=true&theme=blue-green) |![language](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosoraa&layout=compact&theme=blue-green&hide=html,css,php,angular,blade,sass,scss,smarty,ts)|
-
-
----
-
-### :fire: My Stats :
+| ------------- | ------------- |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryosoraa&theme=midnight-purple&locale=ja&card_width=499)](https://git.io/streak-stats)
 
