@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryosoraa&theme=midnight-purple&locale=ja&card_width=499)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryosoraa&theme=midnight-purple&locale=ja&card_width=499)](https://git.io/streak-stats)
 </p>
 
 ---
