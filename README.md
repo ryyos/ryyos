@@ -12,6 +12,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ryosoraa&theme=midnight-purple&locale=ja&card_width=499">
 </p>
 
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@romysaputrasihananda?theme=rule34">
+</p>
+
 ---
 
 <a href="https://www.linkedin.com/in/ryosora/">
