@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryyos&theme=midnight-purple&locale=ja&card_width=499">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryyos&theme=midnight-purple&locale=en&card_width=499">
 </p>
 
 <p align="center">
