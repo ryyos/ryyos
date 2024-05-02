@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@ryyos?theme=rule34">
+  <img src="https://moe-counter.glitch.me/get/@ryyos?theme=gelbooru">
 </p>
 
 ---
